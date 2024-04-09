@@ -1,0 +1,30 @@
+/* * {
+    color: rgb(126, 11, 126);
+} */
+
+h1, h3 {
+    color: rgb(0, 0, 255);
+    background-color: lightblue;
+}
+
+.description {
+    color: brown;
+    font-family: "Nanum Pen Script", cursive;
+}
+
+#degree {
+    color: red;
+}
+
+.center {
+    text-align: center;
+    letter-spacing: 2.0em;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+p {
+    color: orange;
+}
